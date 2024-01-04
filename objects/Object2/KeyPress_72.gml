@@ -1,0 +1,1 @@
+global.hidden = !global.hidden;

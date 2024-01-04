@@ -1,0 +1,1 @@
+text = string(global.lookX2);

@@ -1,0 +1,1 @@
+global.readout = !global.readout;
